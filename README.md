@@ -1,5 +1,5 @@
 # OCamlProjectPR2
-OCaml project made for course of PR2 in University of Pisa
+OCaml project made for course of PR2 in University of Pisa.
 Al linguaggio didattico è stata applicata un’estensione che permette l’utilizzo dei dizionari, insiemi di valori identificati univocamente da una chiave. 
 È stata introdotta per ciò la seguente sintassi:
 •	Dictionary of assocList, permette di dichiarare un dizionario passando come argomento una assocList, una lista di associazioni chiave-valore. Dichiarando un dizionario si ottiene un tipo valutabile DicClosure of (ide * evT) list
